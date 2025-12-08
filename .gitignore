@@ -30,3 +30,10 @@ ENV/
 
 # Other
 *.log
+
+# Virtual Environment files
+bin/
+lib/
+include/
+pyvenv.cfg
+share/
